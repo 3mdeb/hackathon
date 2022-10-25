@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+X-WR-CALNAME:hackathon.3mdeb.com
+NAME:hackathon.3mdeb.com
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20221025T083153Z
+UID:1666686650383-87916@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20221118T180000
+DTEND;TZID=Europe/Berlin:20221118T235500
+SUMMARY:Hackathon 2022 - coreboot flash party
+URL:hackathon.3mdeb.com
+DESCRIPTION:You couldn't find better place to know more about open-source firmware and\ncoreboot and why you should try it.\n\nThe very first 3mdeb's public and open hackathon is here with coreboot as its\nmain theme. coreboot is an extended firmware platform that provides instant and\nsecure booting of modern computers and embedded systems. As an open source\nproject\, it provides auditability and maximum control over the\ntechnology.\n\nBut enough talking... Visit the hackathon to see coreboot in action because\nthere is no better way of befriending coreboot than real interaction.
+LOCATION:Gdańsk 80-307\, ul. Abrahama 1a lok. 2.05
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hackathon 2022 - coreboot flash party
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

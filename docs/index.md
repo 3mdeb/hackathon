@@ -71,19 +71,20 @@ necessary hardware and tools.
 
 <h2 align="left" style="margin-top: 0px;">
   <b>Calendar Invites:</b>
-  <a href="#">iCal</a> /
+  <a href="static/hackathon2022.ics">iCal</a> /
   <a href="#" target="_blank">Google</a>
 </h2>
+<!--
 <h2 align="left" style="margin-top: 0px;">
   <b>Schedule:</b>
   <a href="https://cfp.3mdeb.com/" target="_blank">Hackathon Schedule</a>
 </h2>
-
+-->
 ---
 
 <h1 align="left" style="margin-top: 0px;">
-Sign up now at:
-<a href="https://cfp.3mdeb.com/hackathon-2022/submit/" target="_blank">https://cfp.3mdeb.com/hackathon-2022/</a>!
+<a href="https://cloud.3mdeb.com/index.php/apps/forms/BAXn3xyiYe9dg4kt" target="_blank">
+Fill out a form</a> and join us during the hackathon!
 </h1>
 
 ---
@@ -115,7 +116,9 @@ There is an elevator available to reach the venue. The bathrooms are wheelchair 
 Registration form
 </h1>
 
-Please register your self at <a href="https://cfp.3mdeb.com/hackathon-2022/submit/" target="_blank">https://cfp.3mdeb.com/hackathon-2022/</a>
+Please fill out
+<a href="https://cloud.3mdeb.com/index.php/apps/forms/BAXn3xyiYe9dg4kt" target="_blank">
+registration form</a>.
 
 ---
 
