@@ -9,9 +9,18 @@ hide:
   </p>
 <br>
 
-<h1 align="center" style="color: #38d430;">
-  <b>coreboot flash party is here!</b>
-</h1>
+<h2 align="center" style="margin-top: 0px;">
+  <b>Calendar Invites:</b>
+  <a href="static/hackathon2022.ics">iCal</a> /
+  <a href="
+https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWlhNGowZGh1c2MzYzgzOGkyOGkzcHRjZGMgZXZlbnRzQDNtZGViLmNvbQ&tmsrc=events%403mdeb.com" target="_blank">Google</a>
+</h2>
+<!--
+<h2 align="left" style="margin-top: 0px;">
+  <b>Schedule:</b>
+  <a href="https://cfp.3mdeb.com/" target="_blank">Hackathon Schedule</a>
+</h2>
+-->
 
 ---
 
@@ -67,19 +76,6 @@ hackathon attendees with the process of coreboot initial deployment for the
 selected platforms. For this part of the event, 3mdeb will provide the
 necessary hardware and tools.
 
----
-
-<h2 align="left" style="margin-top: 0px;">
-  <b>Calendar Invites:</b>
-  <a href="static/hackathon2022.ics">iCal</a> /
-  <a href="#" target="_blank">Google</a>
-</h2>
-<!--
-<h2 align="left" style="margin-top: 0px;">
-  <b>Schedule:</b>
-  <a href="https://cfp.3mdeb.com/" target="_blank">Hackathon Schedule</a>
-</h2>
--->
 ---
 
 <h1 align="left" style="margin-top: 0px;">

@@ -25,18 +25,13 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20221025T083153Z
+DTSTAMP:20221026T124734Z
 UID:1666686650383-87916@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20221118T180000
-DTEND;TZID=Europe/Berlin:20221118T235500
+DTSTART;TZID=Europe/Berlin:20221209T180000
+DTEND;TZID=Europe/Berlin:20221209T235500
 SUMMARY:Hackathon 2022 - coreboot flash party
 URL:hackathon.3mdeb.com
-DESCRIPTION:You couldn't find better place to know more about open-source firmware and\ncoreboot and why you should try it.\n\nThe very first 3mdeb's public and open hackathon is here with coreboot as its\nmain theme. coreboot is an extended firmware platform that provides instant and\nsecure booting of modern computers and embedded systems. As an open source\nproject\, it provides auditability and maximum control over the\ntechnology.\n\nBut enough talking... Visit the hackathon to see coreboot in action because\nthere is no better way of befriending coreboot than real interaction.
+DESCRIPTION:The very first 3mdeb's public and open hackathon is here with coreboot as its\nmain theme. coreboot is an extended firmware platform that provides instant and\nsecure booting of modern computers and embedded systems. As an open source\nproject\, it provides auditability and maximum control over the\ntechnology.\n\nBut enough talking... Visit the hackathon to see coreboot in action because\nthere is no better way of befriending coreboot than real interaction.
 LOCATION:Gdańsk 80-307\, ul. Abrahama 1a lok. 2.05
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hackathon 2022 - coreboot flash party
-TRIGGER:-PT2H
-END:VALARM
 END:VEVENT
 END:VCALENDAR
