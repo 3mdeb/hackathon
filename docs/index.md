@@ -126,15 +126,11 @@ Code of Conduct
   <li>Be kind to others.</li>
   <li>Do not insult or put down others.</li>
   <li>Behave professionally.</li>
-  <li>Remember that harassment and sexist, racist, or exclusionary jokes are
-      not appropriate for 3mdeb.</li>
   <li>All communication should be appropriate for a professional audience
       including people of many different backgrounds.</li>
   <li>Sexual language and imagery is not appropriate.</li>
   <li>3mdeb is dedicated to providing a harassment-free community for everyone,
-      regardless of gender, sexual orientation, gender identity and expression,
-      disability, physical appearance, body size, race, or religion.</li>
-  <li>We do not tolerate harassment of community members in any form.</li>
+      regardless of religion, race, physical appearance, disability or gender.</li>
 </ol>
 
 Thank you for helping make this a welcoming, friendly community for all.
