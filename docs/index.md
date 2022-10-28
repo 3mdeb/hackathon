@@ -25,15 +25,16 @@ https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWlhNGowZGh1c2M
 ---
 
 <h2 align="left" style="color: #38d430;">
-  <b>Heard about open-source firmware and coreboot but did not dare to try?</b>
+  <b>Heard about open-source firmware and coreboot but did not dare to try
+  them?</b>
 </h2>
 
-You couldn't find better place to know more about open-source firmware and
+You couldn't find a better place to know more about open-source firmware and
 coreboot and why you should try it.
 
 The very first 3mdeb's public and open hackathon is here with coreboot as its
 main theme. coreboot is an extended firmware platform that provides instant and
-secure booting of modern computers and embedded systems. As an open source
+secure booting of modern computers and embedded systems. As an open-source
 project, it provides auditability and maximum control over the
 technology.
 
@@ -44,33 +45,33 @@ there is no better way of befriending coreboot than real interaction.
   <b>Have a good oldie to flash but afraid to break something?</b>
 </h2>
 
-Don't worry... The hackathon will be organized in the form of workshop where
+Don't worry... The hackathon will be organized in the form of a workshop where
 you will learn how to flash coreboot on various hardware platforms using DYI
 and professional tools.
 
-Also a team of experts will be watching over your hardware safety at any time.
-And if anything goes wrong (it sometimes just happen) we will recover it from
-bricked state.
+Also, a team of experts will be watching over your hardware safety at any time.
+And if anything goes wrong (it sometimes just happens) we will recover it from
+its bricked state.
 
 So do not hesitate and bring your platform with you, we will help analyze your
-hardware and feasibility of coreboot flashing.
+hardware and the feasibility of coreboot flashing.
 
 <h2 align="left" style="color: #38d430;">
   <b>I already have coreboot on my machine and don't want to waste my time on the hackathon</b>
 </h2>
 
-You have coreboot on your machine, really? That's great news! But we encourage
+Do you have coreboot on your machine? Yes? That's great news! But we encourage
 you to come anyway. With almost 100% certainty your corebooted machine firmware
 can become even better and we will show you numerous ways how you can improve
 it.
 
-Slowly getting interested? Good... Want more? Then come hack with us!
+Slowly getting interested? Want more? Then come hack with us!
 
 <h2 align="left"  style="color: #38d430;">
   <b>The goal of the hackathon</b>
 </h2>
 
-As an active contributor, promoter of the open-source firmware and creator of
+As an active contributor, promoter of the open-source firmware, and creator of
 Dasharo open-source firmware distribution, the 3mdeb Team wants to familiarize
 hackathon attendees with the process of coreboot initial deployment for the
 selected platforms. For this part of the event, 3mdeb will provide the
@@ -90,13 +91,13 @@ Venue
 </h1>
 
 The event will take place at 3mdeb's office, accessible at
-Abrahama 1a / 2.05, Gdańsk  80-307:
+ul. Abrahama 1a / 2.05, Gdańsk  80-307:
 
 - [OpenStreetMap](https://www.openstreetmap.org/way/103471012#map=19/54.39267/18.58042)
 - [Google Maps](https://goo.gl/maps/9qvAJWsuvD9ECLNM7)
 
 
-During the event there will be soft drinks and beer, as well as small snacks.
+During the event, there will be soft drinks and beer, as well as small snacks.
 
 ---
 
@@ -114,7 +115,7 @@ Registration form
 
 Please fill out
 <a href="https://cloud.3mdeb.com/index.php/apps/forms/BAXn3xyiYe9dg4kt" target="_blank">
-registration form</a>.
+the registration form</a>.
 
 ---
 
@@ -128,9 +129,9 @@ Code of Conduct
   <li>Behave professionally.</li>
   <li>All communication should be appropriate for a professional audience
       including people of many different backgrounds.</li>
-  <li>Sexual language and imagery is not appropriate.</li>
+  <li>Sexual language and imagery are not appropriate.</li>
   <li>3mdeb is dedicated to providing a harassment-free community for everyone,
-      regardless of religion, race, physical appearance, disability or gender.</li>
+      regardless of religion, race, physical appearance, disability, or gender.</li>
 </ol>
 
 Thank you for helping make this a welcoming, friendly community for all.
@@ -187,6 +188,7 @@ Social media
 
 <h1 align="Left" style="margin-top: 0px;">
 Sponsors
+</h1>
 
 Want to support the Hackathon 2022?
   <a href="https://calendly.com/3mdeb/" target="_blank">Let's talk about it!</a>
